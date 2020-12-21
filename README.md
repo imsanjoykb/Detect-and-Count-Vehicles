@@ -1,4 +1,3 @@
-# Expert Consortium Ltd
 This is a Vehicles detection & Counting project using Computer Vision.
 
 In This video : Total Vehicles detected number is 23
