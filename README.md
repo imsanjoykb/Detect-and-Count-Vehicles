@@ -16,6 +16,6 @@ Email : sanjoy.eee32@gmail.com
 
 Linkedin : [Sanjoy Kumar](https://www.linkedin.com/in/imsanjoykb/)
 
-Github : [Sanjoy Kumar](https://www.linkedin.com/in/imsanjoykb/)
+Github : [Sanjoy Kumar](https://www.github.com/in/imsanjoykb/)
 
 Thank you.
